@@ -6,6 +6,11 @@ body {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+    color: grey;
+}
+
 header {
     text-align: left;
     padding: 2rem;
